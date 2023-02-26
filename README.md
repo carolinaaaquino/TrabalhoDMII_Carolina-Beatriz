@@ -9,4 +9,4 @@ O mesmo representa um estudo sobre o valor económico do pistachio através do r
 Através do Jupyter Notebook foi desenvolvido um modelo de Convolutional Neural Networks para Image Recognition, utilizando Keras e Tensorflow.
 
 
-* O vídeo precisou ser comprimido para upload no GitHub. Se achar está com pouca qualidade, por favor nos informe e enviamos por email.
+* O vídeo precisou ser comprimido para upload no GitHub. Se achar que está com pouca qualidade, por favor nos informe e enviamos por email.
