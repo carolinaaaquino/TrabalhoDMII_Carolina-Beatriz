@@ -1,6 +1,6 @@
 # Reconhecimento de imagens - Convolutional Neural Networks
 ## Diferença entre as espécies de pistachios, Siirt e Kirmizi
-### Beatriz Carvalho e Carolina Aquino!
+### Beatriz Carvalho e Carolina Aquino
 
 O dataset para este trabalho está disponível em: https://www.kaggle.com/datasets/muratkokludataset/pistachio-image-dataset
 
